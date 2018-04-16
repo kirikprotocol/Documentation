@@ -3,23 +3,7 @@
 1. [Documentation](#documentation)
 2. [Examples](#examples)
 3. [Templates](#templates)
-- Verification MSISDN 
-- TiPay plugin
-- CCC plugin (Chat call-center)
-- Bitrix24 plugin
-- VK plugin
-- Google calendar plugin
-- Sender plugin
-- API.AI helper
-- MS QNA helper
 4. [Tools](#tools)
-- STT
-- AI plugins
-- Personalization 2
-- SAA 2.0
-- IPS
-- ALS
-- Libs
 
 ## Documentation
 MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
@@ -54,4 +38,4 @@ MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
 - SAA 2.0
 - [IPS](https://github.com/kirikprotocol/IPS)
 - ALS
-- libs: [RSM](https://github.com/kirikprotocol/RSM), db-template, db-template-test 
+- Libs: [RSM](https://github.com/kirikprotocol/RSM), db-template, db-template-test 
