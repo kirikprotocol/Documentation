@@ -20,11 +20,11 @@ MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
 
 ## Templates
 
-- [Verification MSISDN]()
+- [Verification MSISDN](https://github.com/kirikprotocol/MSISDN-verification-plugin)
 - [TiPay plugin](https://github.com/kirikprotocol/TiPay-plugin)
 - [CCC plugin (Chat call-center)]()
 - [Bitrix24 plugin](https://github.com/kirikprotocol/Bitrix24-plugin)
-- [VK plugin]()
+- [VK-market plugin](https://github.com/kirikprotocol/VK-market-plugin)
 - [Google calendar plugin](https://github.com/kirikprotocol/Google-calendar-plugin)
 - [Sender plugin](https://github.com/kirikprotocol/Sender-plugin)
 - [API.AI helper](https://github.com/kirikprotocol/API.ai-helper)
