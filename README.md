@@ -18,7 +18,7 @@ MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
 6. Sample Google Sheet miniapps
 7. [Subway-demo-bot](https://github.com/kirikprotocol/Subway-demo-bot)
 
-## Templates
+## Plugins
 
 - [Verification MSISDN](https://github.com/kirikprotocol/MSISDN-verification-plugin)
 - [TiPay plugin](https://github.com/kirikprotocol/TiPay-plugin)
