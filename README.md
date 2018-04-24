@@ -2,7 +2,7 @@
 ## Contents
 1. [Documentation](#documentation)
 2. [Examples](#examples)
-3. [Templates](#templates)
+3. [Plugins](#templates)
 4. [Tools](#tools)
 
 ## Documentation
