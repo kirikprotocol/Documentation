@@ -79,7 +79,7 @@ Example:
 The set of supported plugins is determined in the MiniApps settings.
 |Plugin               |identifier           |Description                                                                       |
 |:--------------------|:--------------------|:---------------------------------------------------------------------------------|
-|MSISDN Verifier      |msisdn-verification  |	If MSISDN is absent in the user profile, the user is prompted to go through MSISDN     verification procedure. If the verification is successful, the user is allowed to proceed to the next page.                    |
+|MSISDN Verifier      |msisdn-verification  |	If MSISDN is absent in the user profile, the user is prompted to go through MSISDN verification procedure. If the verification is successful, the user is allowed to proceed to the next page.                    |
 |TiPay Payment        |tipаy-payment        |The user is prompted to start a TiPay payment procedure.                          |
 |Password Entry       |password-input       |Entry of a password without storing it in the TG chat history.                    |
 |Language Selection   |language-selection   |The preferred language is selected and stored in the user profile.                |
