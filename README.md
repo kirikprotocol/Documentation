@@ -11,7 +11,7 @@ MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
 ## Examples
 
 1. Tic-tac-toe
-2. Test-bots fot plug-ins: msisdn-verification, secret-input, languege-selection, miniapps-test-bot, send-file-demo
+2. Test-bots fot plug-ins: [msisdn-verification](https://github.com/kirikprotocol/MSISDN-verification-plugin/tree/master/web/msisdn-confirmation-test), secret-input, languege-selection, miniapps-test-bot, send-file-demo
 3. Community bot mamalara.ru
 4. FAQ bot
 5. Smart bots examples
