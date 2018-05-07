@@ -82,13 +82,13 @@ The set of supported plugins is determined in the MiniApps settings.
 |:--------------------|:--------------------|:---------------------------------------------------------------------------------|
 |[MSISDN Verifier](https://github.com/kirikprotocol/MSISDN-verification-plugin)|msisdn-verification  |	If MSISDN is absent in the user profile, the user is prompted to go through MSISDN verification procedure. If the verification is successful, the user is allowed to proceed to the next page.                    |
 |[TiPay Payment](https://github.com/kirikprotocol/TiPay-plugin)|tipаy-payment        |The user is prompted to start a TiPay payment procedure.                          |
-|Password Entry       |password-input       |Entry of a password without storing it in the TG chat history.                    |
-|Language Selection   |language-selection   |The preferred language is selected and stored in the user profile.                |
+|[Password Entry](https://github.com/kirikprotocol/Secret-input-sample)|password-input       |Entry of a password without storing it in the TG chat history.                    |
+|[Language Selection](https://github.com/kirikprotocol/Language-selection-test)|language-selection   |The preferred language is selected and stored in the user profile.                |
 |Session Invalidation |invalidate-session   |Invalidation of the current session.                                              |
 |Profile Clean-out    |clear-profile        |Clean-out of a user profile.                                                      |
 |[API.ai Assistant](https://github.com/kirikprotocol/API.ai-helper)|ai_apiai             |The dialog is transferred to API.ai bot.                                          |
 |[MS QNA Assistant](https://github.com/kirikprotocol/MS-QNA-helper)|ai_msqna             |The dialog is transferred to https://qnamaker.ai bot.                             |
-|[Bitrix](https://github.com/kirikprotocol/Bitrix24-plugin))|bitrix               |The user's dialog is handed over to Bitrix support.                               |
+|[Bitrix](https://github.com/kirikprotocol/Bitrix24-plugin)|bitrix               |The user's dialog is handed over to Bitrix support.                               |
 |[Google Calendar](https://github.com/kirikprotocol/Google-calendar-plugin)|google-calendar      |An event is added to Google Calendar.                                             |
 |[VK Market](https://github.com/kirikprotocol/VK-market-plugin)|vk-market            |Passage to VK Market, picking up goods, order placement.                          |
 |[Mass Messaging](https://github.com/kirikprotocol/Sender-plugin)|sender-plugin        |Mass message to all users of a service.                                           |
