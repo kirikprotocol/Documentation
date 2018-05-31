@@ -103,5 +103,5 @@ The set of supported plugins is determined in the MiniApps settings.
 - Personalization 2
 - SAA 2.0
 - [IPS](https://github.com/kirikprotocol/IPS)
-- ALS
+- ALS 
 - Libs: [RSM](https://github.com/kirikprotocol/RSM), db-template, db-template-test 
