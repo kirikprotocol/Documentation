@@ -99,7 +99,8 @@ The set of supported plugins is determined in the MiniApps settings.
 ## Tools
 
 - STT
-- AI plugins
+- Connectors for messengers: [line-connector](https://github.com/kirikprotocol/Line-connector), [msbot-connector](https://github.com/kirikprotocol/Msbotframework-connector), [odnoklassniki-connector](https://github.com/kirikprotocol/Odnoklassniki-connector), [telegram-connector](https://github.com/kirikprotocol/Telegram-connector), [viber-connector](https://github.com/kirikprotocol/Viber-connector), [vkontakte-connector](https://github.com/kirikprotocol/Vkontakte-connector), [wechat-connector](https://github.com/kirikprotocol/Wechat-connector)
+- AI plugins: [api-ai-connector](https://github.com/kirikprotocol/Api.ai-connector), [expasoft-connector](https://github.com/kirikprotocol/Expasoft-connector)
 - Personalization 2
 - SAA 2.0
 - [IPS](https://github.com/kirikprotocol/IPS)
