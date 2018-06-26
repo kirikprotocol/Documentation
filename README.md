@@ -15,20 +15,21 @@ MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
 3. [Community bot mamalara.ru](https://github.com/kirikprotocol/Community-bot-mamalara.ru)
 4. [FAQ bot](https://github.com/kirikprotocol/API.ai-helper/tree/master/src/com/eyelinecom/whoisd/sads2/apiai/bot/services/apiai)
 5. [Smart bots examples](https://github.com/kirikprotocol/Smart-bots-examples)
-6. Sample Google Sheet miniapps
+6. [Sample Google Sheet miniapps](https://github.com/kirikprotocol/Google-sheets-bot)
 7. [Subway-demo-bot](https://github.com/kirikprotocol/Subway-demo-bot)
 
 ## Plugins
 
 - [Verification MSISDN](https://github.com/kirikprotocol/MSISDN-verification-plugin)
 - [TiPay plugin](https://github.com/kirikprotocol/TiPay-plugin)
-- [CCC plugin (Chat call-center)]()
+- [CCC plugin (Chat call-center)](https://github.com/kirikprotocol/Chat-call-centre)
 - [Bitrix24 plugin](https://github.com/kirikprotocol/Bitrix24-plugin)
 - [VK-market plugin](https://github.com/kirikprotocol/VK-market-plugin)
 - [Google calendar plugin](https://github.com/kirikprotocol/Google-calendar-plugin)
 - [Sender plugin](https://github.com/kirikprotocol/Sender-plugin)
 - [API.AI helper](https://github.com/kirikprotocol/API.ai-helper)
 - [MS QNA helper](https://github.com/kirikprotocol/MS-QNA-helper)
+- [Google-sheets-plugin](https://github.com/kirikprotocol/Google-sheets-plugin)
 
 
 ### Calling MiniApps Plugins
