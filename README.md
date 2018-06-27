@@ -10,7 +10,7 @@ MiniApps.run Documentation: https://docs.miniapps.pro/display/MINIAPPS/
 
 ## Examples
 
-1. Tic-tac-toe
+1. [Tic-tac-toe](https://github.com/kirikprotocol/Tic-tac-toe), [15-Puzzle](https://github.com/kirikprotocol/15-puzzle)
 2. Test-bots fot plug-ins: [msisdn-verification](https://github.com/kirikprotocol/MSISDN-verification-plugin/tree/master/web/msisdn-confirmation-test), [secret-input](https://github.com/kirikprotocol/secret-input-sample), [languege-selection](https://github.com/kirikprotocol/Language-selection-test), [miniapps-test-bot](https://github.com/kirikprotocol/Miniapps-test-bot), [send-file-demo](https://github.com/kirikprotocol/Send-file-demo)
 3. [Community bot mamalara.ru](https://github.com/kirikprotocol/Community-bot-mamalara.ru)
 4. [FAQ bot](https://github.com/kirikprotocol/API.ai-helper/tree/master/src/com/eyelinecom/whoisd/sads2/apiai/bot/services/apiai)
